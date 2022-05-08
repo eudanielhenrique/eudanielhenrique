@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTLM | CSS | JAVASCRIPT </strong>
+  🤎 Linguagens: <strong>HTLM | CSS | JAVASCRIPT </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code | Figma | Notion | Vercel | GitHub</strong>
+  👨🏻‍💻 Ferramentas: <strong>VS Code | Figma | Notion | Vercel | GitHub</strong>
 </p>
 
 <p align="left">
