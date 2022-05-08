@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Linguagens: <strong>HTLM | CSS | JAVASCRIPT |</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Ferramentas: <strong>VSODE | Figma</strong>
 </p>
 
 <p align="left">
