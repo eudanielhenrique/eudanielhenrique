@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
+
+</br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
