@@ -1,16 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  <strong>Ola,</strong> meu nome e Daniel Henrique, sou estudante de Analise e desenvolvimento de sistema. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTLM | CSS | JAVASCRIPT |</strong>
+  🦄 Linguagens: <strong>HTLM | CSS | JAVASCRIPT </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCODE | Figma</strong>
+  💼 Ferramentas: <strong>VS Code | Figma | Notion | Vercel | GitHub</strong>
 </p>
 
 <p align="left">
