@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSODE | Figma</strong>
+  💼 Ferramentas: <strong>VSCODE | Figma</strong>
 </p>
 
 <p align="left">
