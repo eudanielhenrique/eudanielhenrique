@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  👨🏻‍💻 Ferramentas: <strong>VS Code | Figma | Notion | Vercel | GitHub</strong>
+  👨🏻‍💻 Ferramentas: <strong>VS Code | Figma | Adobe XD | Notion | Vercel | GitHub</strong>
 </p>
 
 <p align="left">
