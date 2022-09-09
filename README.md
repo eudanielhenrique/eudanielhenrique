@@ -1,11 +1,11 @@
 <img src="https://i.imgur.com/jNOqaWv.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <strong>Ola, meu nome e Daniel Henrique,</strong> sou estudante de Analise e desenvolvimento de sistema. 
+  <strong>Ola, meu nome e Daniel Henrique,</strong> sou estudante de Tecnologia em sistemas para internet - TSI - IFES - SERRA. 
 </p>
 
 <p align="left">
-  🤎 Linguagens: <strong>HTLM | CSS | JAVASCRIPT </strong>
+  🤎 Linguagens: <strong>HTLM5 | CSS3 | JAVASCRIPT </strong>
 </p>
 
 <p align="left">
