@@ -34,16 +34,16 @@
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,postgresql,mysql,sass)](https://github.com/Jurredr/github-widgetbox)
 
   
-<div align="left">
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind)](https://github.com/Jurredr/github-widgetbox)
-</div>
 
-<div align="right">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind)](https://github.com/Jurredr/github-widgetbox)
+
+
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier)](https://github.com/Jurredr/github-widgetbox)
 
-</div>
 
-<div align="left">
+
+
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode)](https://github.com/Jurredr/github-widgetbox)
-</div>
+
 
