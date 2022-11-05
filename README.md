@@ -30,9 +30,9 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=eudanielhenrique&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 </center>
 
-<div align="right">
+
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,postgresql,mysql,sass)](https://github.com/Jurredr/github-widgetbox)
-</div>
+
   
 <div align="left">
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind)](https://github.com/Jurredr/github-widgetbox)
