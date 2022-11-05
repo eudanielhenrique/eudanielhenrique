@@ -12,10 +12,9 @@
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
           <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=tailwind&tools=git,npm,yarn,firebase,vercel,apache,nginx&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,php,c,mysql,postgres,mysql,bash&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
   </a>
 </p>
-
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,sass,js,php,c,mysql,postgres,mysql,bash&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
 <hr>
 
 <p align="center">
