@@ -5,14 +5,6 @@
 </p>
 
 <p align="left">
-  🤎 Linguagens: <strong>HTLM5 | CSS3 | JAVASCRIPT </strong>
-</p>
-
-<p align="left">
-  👨🏻‍💻 Ferramentas: <strong>VS Code | Figma | Notion | Vercel | GitHub</strong>
-</p>
-
-<p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
@@ -33,7 +25,24 @@
   <img src="https://img.shields.io/badge/-Instagram-603000?style=flat-square&labelColor=603000&logo=instagram&logoColor=white&link=instagram.com/phdanielhenrique"/></a>
 </p>  
 
-
+<center>
+  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=eudanielhenrique&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+</center>
 
+<div align="right">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,postgresql,mysql,sass)](https://github.com/Jurredr/github-widgetbox)
+</div>
+  
+<div align="left">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind)](https://github.com/Jurredr/github-widgetbox)
+</div>
+
+<div align="right">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,yarn,firebase,wordpress,woocommerce,vercel,apache,prettier)](https://github.com/Jurredr/github-widgetbox)
+</div>
+
+<div align="left">
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=vscode)](https://github.com/Jurredr/github-widgetbox)
+</div>
 
