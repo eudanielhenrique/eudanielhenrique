@@ -33,3 +33,7 @@
   <img src="https://img.shields.io/badge/-Instagram-603000?style=flat-square&labelColor=603000&logo=instagram&logoColor=white&link=instagram.com/phdanielhenrique"/></a>
 </p>  
 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=eudanielhenrique&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+
