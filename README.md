@@ -1,5 +1,5 @@
 <a href="https://phdanielhenrique.com/">
-  <center><img style="border-radius: 25px; width: 96%;" src="https://i.imgur.com/LzuFxEm.png" alt="DanielH" /></center>
+  <center><img style="border-radius: 25px; width: 96%;" src="https://i.imgur.com/uY4cOiW.png" alt="DanielH" /></center>
 </a>
 <hr>
 <p align="center">
