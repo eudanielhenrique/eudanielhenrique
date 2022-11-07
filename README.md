@@ -1,6 +1,9 @@
 <a href="https://phdanielhenrique.com/">
   <center><img style="border-radius: 25px; width: 96%;" src="https://i.imgur.com/uY4cOiW.png" alt="DanielH" /></center>
 </a>
+
+[![Design and development](https://i.imgur.com/uY4cOiW.png)](https://phdanielhenrique.com)
+
 <hr>
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
