@@ -20,7 +20,7 @@ Sou um especialista em UX/UI e desenvolvimento front‑end com experiência em c
 Estas são algumas das **linguagens, frameworks e ferramentas** com as quais trabalho:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,vite,php,mysql,postgresql,supabase,figma,git,github,notion&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,vite,php,mysql,postgresql,supabase,figma,git,github,notion&perline=20" />
 </p>
 
 - **Design e prototipação:** Figma, Photoshop, Illustrator, Premiere Pro  
