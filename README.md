@@ -8,7 +8,7 @@ Sou um especialista em UX/UI e desenvolvimento front‑end com experiência em c
 - **Prisma Dados** – Desenvolvedor Full Stack & Analista de Dados (jun/2022–atual)  
   Desenvolvimento de sistemas personalizados, análise e visualização de dados, integração com ERP Senior e outras plataformas corporativas, construção de relatórios e dashboards interativos, e integração de bases de dados.
 - **Grupo Mol** – Analista de sistema (nov/2023–atual)  
-  Desenvolvimento de sistemas internos, otimização de processos com SQL e automação, e melhorias de UX para dashboards.
+  Desenvolvimento de sistemas internos, otimização de processos com SQL e automação, suporte ao sistema **Bravos** da **Linx** e melhorias de UX para dashboards.
 
 ## Projetos em destaque
 - **Sistema de emplacamento** – [Calculadora Next.js](https://github.com/eudanielhenrique/calculadora-next): aplicação web de calculadora com interface responsiva e intuitiva, suporte a operações básicas, cálculos com porcentagens, histórico de operações e exportação de cálculos para PDF.
