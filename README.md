@@ -31,14 +31,17 @@ Sistemas internos, automação de processos com SQL e melhorias de UX em ferrame
 
 ## Projetos
 
-**AlvoMarcado**  
-Plataforma de convites e organização de eventos de Airsoft — da identidade visual ao sistema de gestão de participantes.
+**[BoraAutomatizar](https://boraautomatizar.com.br)**  
+Plataforma multi-canal que centraliza WhatsApp, automações e gestão de conversas em um único ambiente operacional. Construída para times que precisam escalar atendimento sem aumentar equipe.
 
-**Zuppet**  
-Sistema de gestão para pet shops — agendamento, controle de estoque e financeiro em uma interface pensada para quem não é técnico.
+**Senior WA Dispatch**  
+Automação de disparos WhatsApp Business integrada ao ERP Senior. Puxa contatos e dados direto do banco corporativo, envia mensagens com templates aprovados pela Meta e grava o retorno (enviado/erro) de volta no ERP — sem intervenção manual. Dashboard em tempo real para monitoramento de fila e status.
 
-**FIG**  
-Desenvolvimento web, identidade visual e marketing digital para clientes locais.
+**Bravos Avalia**  
+Sistema de pesquisa de satisfação pós-atendimento para oficinas automotivas. Ao registrar a saída do veículo no sistema Bravos (Linx), dispara automaticamente uma avaliação por WhatsApp para o cliente — coletando feedback sem depender de processo manual da equipe.
+
+**SheetBridge**  
+Plataforma que expõe planilhas do Google Sheets como APIs REST consumíveis por qualquer sistema. Elimina a necessidade de backend próprio para integrações simples. Construído com Node.js/Express, PostgreSQL, Redis para rate limiting e cache, e suporte a webhooks por rota.
 
 ---
 
