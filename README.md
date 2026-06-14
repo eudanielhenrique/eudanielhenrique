@@ -12,7 +12,6 @@ Disponível para projetos freelance e oportunidades.
 
 - **Automação & IA** — Fluxos n8n com APIs, webhooks e bancos de dados. Agentes de IA com LLMs para atendimento, análise e geração de conteúdo. Integração ERP → sistemas internos → automações.
 - **Full Stack** — React, Next.js, TypeScript, Node.js, Tailwind. Sistemas que escalam, dashboards em tempo real, pipelines de dados para decisão estratégica.
-- **Design de experiência** — UX/UI no Figma, Design Systems, prototipação interativa. Do conceito à especificação pronta para desenvolvimento.
 
 ---
 
@@ -42,6 +41,9 @@ Sistema de pesquisa de satisfação pós-atendimento para oficinas automotivas. 
 
 **SheetBridge**  
 Plataforma que expõe planilhas do Google Sheets como APIs REST consumíveis por qualquer sistema. Elimina a necessidade de backend próprio para integrações simples. Construído com Node.js/Express, PostgreSQL, Redis para rate limiting e cache, e suporte a webhooks por rota.
+
+**[FatiaJá](https://fatiaja.com.br)**  
+Ferramenta gratuita e open source que divide imagens em grades personalizadas direto no navegador — sem upload para servidor. Feita para criadores de conteúdo que precisam de mosaico no Instagram, carrosséis e banners cortados com precisão.
 
 ---
 
