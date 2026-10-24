@@ -1,63 +1,138 @@
 # Daniel Henrique
 
-Automação com n8n & IA · Full Stack Developer · UX/UI · Brasil
+### Full Stack Developer · Automation & AI · UX/UI
 
-Construo fluxos automatizados e agentes de IA que eliminam trabalho manual — integrando ERPs, APIs e sistemas corporativos. Do wireframe ao deploy, com código que não envergonha e interfaces que fazem sentido para quem usa.
+Construo produtos digitais, integrações corporativas e automações inteligentes que resolvem problemas reais. Conecto sistemas, APIs, bancos de dados e inteligência artificial para transformar processos complexos em soluções eficientes, escaláveis e intuitivas.
 
-Disponível para projetos freelance e oportunidades.
+Do planejamento ao deploy, uno engenharia de software, automação e design para tirar ideias do papel e colocar produtos em funcionamento.
 
----
-
-## O que faço
-
-- **Automação & IA** — Fluxos n8n com APIs, webhooks e bancos de dados. Agentes de IA com LLMs para atendimento, análise e geração de conteúdo. Integração ERP → sistemas internos → automações.
-- **Full Stack** — React, Next.js, TypeScript, Node.js, Tailwind. Sistemas que escalam, dashboards em tempo real, pipelines de dados para decisão estratégica.
+**[GitHub](https://github.com/eudanielhenrique) · [LinkedIn](https://www.linkedin.com/in/phdanielhenrique/) · [Behance](https://www.behance.net/phdanielhenrique/)**
 
 ---
 
-## Onde estou construindo
+## Projetos em destaque
 
-**Prisma Dados** · Desenvolvedor Full Stack · ago/2025–atual  
-Sistemas personalizados com melhoria de 80% na visualização de dados estratégicos. Automação de fluxos com n8n integrado ao ERP Senior, reduzindo 10 horas semanais de trabalho manual.
+### [BoraAutomatizar](https://boraautomatizar.com.br)
 
-**Prisma Dados** · Analista de Dados · jun/2022–ago/2025  
-Dashboards estratégicos e pipelines de dados para suporte à tomada de decisão. Integração com ERPs Linx, Sapiens e Vetorh.
+**Automação de processos · Atendimento · Inteligência Artificial**
 
-**Grupo Mol** · Analista de Sistemas · nov/2023–atual  
-Sistemas internos, automação de processos com SQL e melhorias de UX em ferramentas operacionais.
+Plataforma de automação e gestão de atendimento que conecta canais de comunicação, conversas e fluxos automatizados em um ambiente operacional integrado.
+
+- Centralização de conversas e atendimento.
+- Automação de processos e integrações.
+- Soluções para otimizar operações e reduzir tarefas repetitivas.
+
+**Tecnologias:** APIs · Webhooks · n8n · Inteligência Artificial
+
+### [FatiaJá](https://fatiaja.com.br)
+
+**Produto web · Open source · Processamento no navegador**
+
+Ferramenta gratuita para dividir imagens em grades personalizadas, criar mosaicos para Instagram e preparar carrosséis e banners com precisão. O processamento ocorre diretamente no navegador, sem upload das imagens para um servidor.
+
+**Destaque:** experiência simples, processamento local e utilidade prática para criadores de conteúdo.
+
+**Tecnologias:** JavaScript · TypeScript · Aplicações web
+
+### Senior WA Dispatch
+
+**Integração corporativa · ERP Senior · WhatsApp Business**
+
+Sistema de automação de mensagens integrado ao ERP Senior. Consulta dados corporativos, utiliza templates aprovados pela Meta, realiza disparos automatizados e registra os retornos de envio no sistema de origem.
+
+- Integração com banco de dados corporativo.
+- Processamento de filas e monitoramento de status.
+- Registro de sucesso e falhas de envio.
+- Dashboard operacional para acompanhamento.
+
+### Bravos Avalia
+
+**Automação · ERP Linx · Experiência do cliente**
+
+Sistema de pesquisa de satisfação pós-atendimento para oficinas automotivas. A partir do registro de saída do veículo no sistema Bravos/Linx, automatiza o envio de solicitações de avaliação por WhatsApp, reduzindo a dependência de processos manuais.
+
+### SheetBridge
+
+**APIs REST · Integrações · Node.js**
+
+Plataforma que disponibiliza dados do Google Sheets por meio de APIs REST, simplificando integrações entre planilhas e outros sistemas.
+
+- Endpoints para acesso aos dados.
+- Suporte a webhooks por rota.
+- Recursos de controle de requisições e cache.
+
+**Tecnologias:** Node.js · Express · PostgreSQL
+
+### [Calculadora de Emplacamento](https://github.com/eudanielhenrique/calculadora-next)
+
+**Next.js · TypeScript · Aplicação web**
+
+Aplicação para estimativa de custos relacionados ao emplacamento e à documentação veicular, facilitando a consulta e a organização dos cálculos.
 
 ---
 
-## Projetos
+## Especialidades
 
-**[BoraAutomatizar](https://boraautomatizar.com.br)**  
-Plataforma multi-canal que centraliza WhatsApp, automações e gestão de conversas em um único ambiente operacional. Construída para times que precisam escalar atendimento sem aumentar equipe.
+**Automação & IA**
+- Workflows com n8n, APIs e webhooks.
+- Integração de LLMs e agentes de IA.
+- Automação de atendimento e processos operacionais.
 
-**Senior WA Dispatch**  
-Automação de disparos WhatsApp Business integrada ao ERP Senior. Puxa contatos e dados direto do banco corporativo, envia mensagens com templates aprovados pela Meta e grava o retorno (enviado/erro) de volta no ERP — sem intervenção manual. Dashboard em tempo real para monitoramento de fila e status.
+**Desenvolvimento Full Stack**
+- Aplicações web com React, Next.js e TypeScript.
+- Backends e APIs REST com Node.js e Express.
+- Sistemas administrativos, dashboards e plataformas SaaS.
 
-**Bravos Avalia**  
-Sistema de pesquisa de satisfação pós-atendimento para oficinas automotivas. Ao registrar a saída do veículo no sistema Bravos (Linx), dispara automaticamente uma avaliação por WhatsApp para o cliente — coletando feedback sem depender de processo manual da equipe.
+**Dados & Integrações**
+- SQL, PostgreSQL e MySQL.
+- Integração com ERPs e sistemas corporativos.
+- Pipelines de dados e ferramentas para análise operacional.
 
-**SheetBridge**  
-Plataforma que expõe planilhas do Google Sheets como APIs REST consumíveis por qualquer sistema. Elimina a necessidade de backend próprio para integrações simples. Construído com Node.js/Express, PostgreSQL, Redis para rate limiting e cache, e suporte a webhooks por rota.
-
-**[FatiaJá](https://fatiaja.com.br)**  
-Ferramenta gratuita e open source que divide imagens em grades personalizadas direto no navegador — sem upload para servidor. Feita para criadores de conteúdo que precisam de mosaico no Instagram, carrosséis e banners cortados com precisão.
+**UX/UI & Produtos Digitais**
+- Arquitetura de interfaces e prototipação.
+- Design responsivo e usabilidade.
+- Transformação de requisitos em experiências digitais funcionais.
 
 ---
 
-## Stack
+## Stack tecnológica
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,vite,php,mysql,postgresql,supabase,figma,git,github,notion&perline=17" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,vite,php,mysql,postgresql,supabase,figma,git,github,notion&perline=9" />
 </p>
 
-**Automação & IA** — n8n · LLMs · Agentes de IA · Webhooks · Power BI  
-**Dados & Integração** — SQL · ERP Senior · Linx · Sapiens · Vetorh
+| Categoria | Tecnologias |
+|---|---|
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite |
+| Backend | Node.js, Express, PHP, APIs REST |
+| Banco de dados | PostgreSQL, MySQL, Supabase, SQL |
+| Automação & IA | n8n, LLMs, agentes de IA, webhooks |
+| Integrações | ERP Senior, Linx, Sapiens, Vetorh, WhatsApp Business |
+| Design & ferramentas | Figma, Git, GitHub, Notion |
 
 ---
 
-## Contato
+## Resultados em destaque
 
-[LinkedIn](https://www.linkedin.com/in/phdanielhenrique/) · [GitHub](https://github.com/eudanielhenrique) · [Behance](https://www.behance.net/phdanielhenrique)
+- **10 horas semanais economizadas** com automação de processos integrados ao ERP Senior.
+- **80% de melhoria na visualização de dados estratégicos**, conforme resultado informado para uma solução corporativa.
+
+---
+
+## Como eu desenvolvo
+
+1. **Entendimento:** identifico o problema, os requisitos e os objetivos.
+2. **Planejamento:** defino a arquitetura, os fluxos e a experiência do usuário.
+3. **Desenvolvimento:** implemento interfaces, APIs, bancos de dados e integrações.
+4. **Automação:** conecto sistemas e elimino etapas manuais sempre que possível.
+5. **Entrega:** realizo testes, ajustes e deploy da solução.
+
+---
+
+## Vamos construir algo?
+
+Estou aberto a projetos freelance, parcerias e desafios envolvendo desenvolvimento de software, automação, inteligência artificial e produtos digitais.
+
+**[Entre em contato pelo LinkedIn](https://www.linkedin.com/in/phdanielhenrique/)**
+
+[GitHub](https://github.com/eudanielhenrique) · [Behance](https://www.behance.net/phdanielhenrique/) · [BoraAutomatizar](https://boraautomatizar.com.br/)
